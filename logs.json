@@ -1,0 +1,138 @@
+[
+  {
+    "source": "XProtect",
+    "message": "Timestamp                       Thread     Type        Activity             PID    TTL  "
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:16.966203+0530 0x1e8e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:18.918438+0530 0x1e8e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:20.116328+0530 0x1e8e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:20.127311+0530 0x1e8e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:20.149113+0530 0x1e99     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:38:20.152615+0530 0x1e99     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:40:15.114696+0530 0x2c3e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:40:15.134649+0530 0x2c3e     Default     0x0                  837    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:47:12.508564+0530 0x1de8     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:47:16.910716+0530 0x1de8     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:47:17.140855+0530 0x1ed9     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:47:17.146341+0530 0x1ed9     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:48:51.289597+0530 0x2822     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 12:48:51.309264+0530 0x2822     Default     0x0                  842    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 14:16:12.368088+0530 0xb077     Default     0x0                  3429   0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 14:16:12.551563+0530 0xb077     Default     0x0                  3429   0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 17:12:20.024229+0530 0x2958e    Default     0x0                  13417  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-11 17:12:20.154003+0530 0x2958e    Default     0x0                  13417  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 09:59:45.628357+0530 0x73a61    Default     0x0                  50809  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 09:59:45.912641+0530 0x73a61    Default     0x0                  50809  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 10:30:14.467091+0530 0x73a65    Default     0x0                  50809  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 10:30:14.512229+0530 0x73a65    Default     0x0                  50809  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 10:59:33.798709+0530 0x81278    Default     0x0                  57054  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 10:59:35.404128+0530 0x81278    Default     0x0                  57054  0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping <private> on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 14:29:10.579223+0530 0x1fc1     Default     0x0                  899    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 14:29:13.221556+0530 0x1fc1     Default     0x0                  899    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping ("
+  },
+  {
+    "source": "XProtect",
+    "message": "    \"<null>\""
+  },
+  {
+    "source": "XProtect",
+    "message": ") on the ground"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 14:29:13.367616+0530 0x1fc9     Default     0x0                  899    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Got an event in libXPP dylib"
+  },
+  {
+    "source": "XProtect",
+    "message": "2025-02-12 14:29:13.373897+0530 0x1fc9     Default     0x0                  899    0    XProtectBridgeService: (libXProtectPayloads.dylib) [com.apple.XProtect:behavior] Dropping ("
+  },
+  {
+    "source": "XProtect",
+    "message": "    \"<null>\""
+  },
+  {
+    "source": "XProtect",
+    "message": ") on the ground"
+  },
+  {
+    "source": "Gatekeeper",
+    "message": "Timestamp                       Thread     Type        Activity             PID    TTL  "
+  }
+]

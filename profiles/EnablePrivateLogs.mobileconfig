@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.system.logging</string>
+            <key>PayloadIdentifier</key>
+            <string>com.organization.xprotect.logging</string>
+            <key>PayloadUUID</key>
+            <string>4BAC5C5A-FF5C-439C-BE27-97A7C6A9DDDD</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>System</key>
+            <dict>
+                <key>Enable-Private-Data</key>
+                <true/>
+                <key>Default-Privacy-Setting</key>
+                <string>Public</string>
+                <key>Level</key>
+                <string>Debug</string>
+            </dict>
+            <key>Subsystems</key>
+            <dict>
+                <key>com.apple.XProtect</key>
+                <dict>
+                    <key>Enable-Private-Data</key>
+                    <true/>
+                    <key>Level</key>
+                    <string>Debug</string>
+                    <key>Default-Privacy-Setting</key>
+                    <string>Public</string>
+                    <key>Categories</key>
+                    <dict>
+                        <key>behavior</key>
+                        <dict>
+                            <key>Enable-Private-Data</key>
+                            <true/>
+                            <key>Level</key>
+                            <string>Debug</string>
+                        </dict>
+                        <key>scanner</key>
+                        <dict>
+                            <key>Enable-Private-Data</key>
+                            <true/>
+                            <key>Level</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                </dict>
+            </dict>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>XProtect Full Logging</string>
+    <key>PayloadIdentifier</key>
+    <string>com.organization.xprotect</string>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9BAC5C5A-FF5C-439C-BE27-97A7C6A9DDDD</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
